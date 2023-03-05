@@ -1,0 +1,39 @@
+#bar{
+	background-color: white;
+	border: 1px;
+	border-color: black;
+	border-width: 1px;
+	border-style: groove;
+}
+
+#Blumpy{
+	text-align: left;
+	color: turquoise;
+	font-family: Comic Sans MS;
+}
+
+#page{
+	background-color: aquamarine;
+	border: 1px;
+	border-color: rgb(0, 0, 0);
+	border-width: 1px;
+	border-style: groove;
+	text-align: center;
+}
+
+#centerBlumpy{
+	text-align: center;
+	height: 20px;
+	font-weight: 10px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#sign{
+	text-align: right;
+}
+
+#button1{
+	background-color: rgb(76, 76, 253);
+	border-radius: 10%;
+	border-color: rgb(76, 76, 253);
+}
